@@ -87,3 +87,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="200" height="200">
 </div>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="50" height="50" style="float:left">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="50" height="50" style="float:right">
+</p>
