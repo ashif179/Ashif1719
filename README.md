@@ -1,103 +1,89 @@
 # Ashif1719
-# **Hey, I'm [Your Name]!** 👨‍💻  
-### **BSc Computer Science Student | Aspiring Full-Stack Developer**  
+<div align="center">
+  
+<!-- Animated floating emojis -->
+<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="100" height="100" style="float:left">
+<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="100" height="100" style="float:right">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=Computer+Science+Student;Open-Source+Contributor;AI%2FML+Enthusiast;Web+Developer)](https://git.io/typing-svg)  
+# **✨ [Your Name]**
+### **BSc Computer Science | Future Tech Leader**
 
+<!-- Animated typing text with more effects -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=30&duration=4000&pause=500&color=00F718&background=FF2D7500&center=true&vCenter=true&width=800&height=100&lines=Hello+World!;Full-Stack+Developer;AI%2FML+Researcher;Open-Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
+
+<!-- Particle.js effect (will work when viewed on web) -->
+<img src="https://particles.js.org/images/background.jpg" width="100%" height="150" alt="particles.js" style="border-radius:10px">
+
+</div>
+
+---
+
+## **🌀 Dynamic Stats Section**
+
+<!-- Animated stats cards -->
 <p align="center">
   <a href="https://github.com/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=My%20Dynamic%20Stats&hide_border=true&bg_color=45,ff00cc,3333ff&title_color=fff&text_color=fff&icon_color=fff&ring_color=00F718&border_radius=20&animation=twinkling" alt="GitHub Stats" width="48%"/>
   </a>
-  <a href="https://github.com/yourusername?tab=followers">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Followers" />
+  <a href="https://github.com/yourusername">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=45,3333ff,ff00cc&ring=00F718&fire=00F718&currStreakLabel=00F718&animation=twinkling" alt="GitHub Streak" width="48%"/>
   </a>
 </p>
 
----
-
-## **📊 GitHub Stats & Streaks**  
-
+<!-- Floating 3D tech stack -->
+<h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,py,java,cpp,aws,docker,postgres,mongodb,git,github,vscode&perline=7&theme=dark" alt="Tech Stack" />
 </p>
 
----
-
-## **🛠️ Tech Stack**  
-
-### **Languages & Frameworks**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-
-### **Databases & Cloud**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-
-### **Tools & IDEs**  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-
----
-
-## **🎧 Spotify Now Playing**  
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&redirect=true)
-
----
-
-## **🏆 GitHub Trophies**  
-
+<!-- Animated coding activity graph -->
+<h2 align="center">📈 Coding Activity</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=My%20Coding%20Activity&line=00F718&point=00F718&area_color=00F718&color=ffffff&animation=wiggle" alt="GitHub Activity Graph" width="90%"/>
 </p>
 
----
+<!-- Animated snake eating contributions -->
+<h2 align="center">🐍 Contribution Snake</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="snake gif" width="90%"/>
+</p>
 
-## **📈 GitHub Contribution Graph**  
+<!-- Spotify with animated equalizer -->
+<h2 align="center">🎧 Now Playing</h2>
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem&bar_color=00F718&bar_color_cover=true&animation=equalizer" alt="Now Playing" width="75%"/>
+</p>
 
-![GitHub Snake Animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+<!-- Floating trophies -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&animation=scale" alt="GitHub Trophies" />
+</p>
 
----
-
-## **📫 Let's Connect!**  
-
+<!-- Animated social badges -->
+<h2 align="center">📫 Connect With Me</h2>
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse" />
   </a>
   <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&animation=pulse" />
   </a>
   <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=pulse" />
   </a>
   <a href="https://leetcode.com/yourprofile/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&animation=pulse" />
   </a>
 </p>
 
----
-
-## **📚 Latest Blog Posts (If You Have a Blog)**  
-
-<!-- BLOG-POST-LIST:START -->
-- [How I Built My First Full-Stack App](https://yourblog.com/post1)
-- [Getting Started with Machine Learning](https://yourblog.com/post2)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### **⚡ Fun Fact:**  
-*"I can solve a Rubik's Cube in under 2 minutes! 🎲"*  
-
----
-  
-<p align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=Thanks+for+visiting!;Let's+collaborate+on+cool+projects!;Happy+Coding+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- Animated visitor counter -->
+<h2 align="center">👀 Profile Views</h2>
+<p align="center">
+  <img src="https://count.getloli.com/get/@yourusername?theme=moebooru" alt="visitor counter" />
 </p>
+
+<!-- Floating emoji fireworks -->
+<div align="center">
+  <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="200" height="200">
+</div>
